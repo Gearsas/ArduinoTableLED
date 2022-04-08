@@ -1,0 +1,16 @@
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\bin\Debug\Controller app.exe.config
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\bin\Debug\Controller app.exe
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\bin\Debug\Controller app.pdb
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller app.csproj.AssemblyReference.cache
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller app.csproj.SuggestedBindingRedirects.cache
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\MainWindow.g.cs
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\App.g.cs
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller app_MarkupCompile.cache
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller app_MarkupCompile.lref
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\MainWindow.baml
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller app.g.resources
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller_app.Properties.Resources.resources
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller app.csproj.GenerateResource.cache
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller app.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller app.exe
+C:\Users\marty\Documents\GitHub\ArduinoTableLED\Controller app\Controller app\obj\Debug\Controller app.pdb
