@@ -6,5 +6,4 @@ Home side-project. Arduino controlled room led lights.
 
 
 
-
-![circuit (1)](https://user-images.githubusercontent.com/79107324/175998641-f4d12404-6b96-4a85-b5ac-f2181b02266d.png)
+![circuit (2)](https://user-images.githubusercontent.com/79107324/175999010-b775017a-09f5-4731-a990-58d50bac7a47.png)
